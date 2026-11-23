@@ -1,0 +1,41 @@
+cole_jornada,cole_calendario,cole_naturaleza,cole_area_ubicacion,cole_bilingue,cole_caracter,fami_tieneinternet,fami_tienecomputador,fami_educacionmadre,fami_educacionpadre,fami_estratovivienda,estu_genero,grupo_edad
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Secundaria (Bachillerato) completa,Estrato 2,M,18
+NOCHE,A,NO OFICIAL,URBANO,No reportado,No reportado,Si,Si,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 2,M,20 a 24
+COMPLETA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Educación profesional incompleta,Estrato 5,F,18
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,M,17
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,16
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,M,19
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No,No reportado,Educación profesional incompleta,Secundaria (Bachillerato) completa,Estrato 2,F,16
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,M,17
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Primaria incompleta,Ninguno,Estrato 4,M,19
+COMPLETA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Técnica o tecnológica completa,Estrato 3,F,16
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,No sabe,Estrato 4,F,17
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Ninguno,Secundaria (Bachillerato) completa,No reportado,M,17
+COMPLETA,B,NO OFICIAL,RURAL,S,ACADÉMICO,Si,Si,Postgrado,Postgrado,Estrato 5,F,19
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,No sabe,No sabe,Estrato 3,M,18
+UNICA,A,OFICIAL,URBANO,No reportado,No reportado,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,16
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica completa,Estrato 2,F,16
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,Si,No reportado,No sabe,No sabe,Estrato 3,M,18
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional incompleta,Secundaria (Bachillerato) completa,Estrato 3,F,18
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica incompleta,Técnica o tecnológica completa,Estrato 3,F,18
+COMPLETA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,F,16
+MAÑANA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Secundaria (Bachillerato) completa,Estrato 5,M,17
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,M,17
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No reportado,Primaria incompleta,Primaria completa,Estrato 2,F,16
+UNICA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Postgrado,Educación profesional incompleta,Estrato 5,F,17
+TARDE,A,NO OFICIAL,URBANO,No reportado,NO APLICA,No reportado,No reportado,No reportado,No reportado,No reportado,M,16
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Primaria incompleta,Ninguno,Estrato 5,M,17
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 1,M,17
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 2,F,17
+UNICA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,M,17
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Postgrado,Secundaria (Bachillerato) incompleta,Estrato 2,F,17
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,No sabe,Estrato 2,M,16
+SABATINA,A,OFICIAL,RURAL,N,ACADÉMICO,No,No,Educación profesional completa,No Aplica,Sin Estrato,M,25 a 29
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,No,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 2,M,18
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Educación profesional completa,No sabe,Estrato 3,M,16
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,M,20 a 24
+UNICA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Postgrado,Educación profesional completa,Sin Estrato,M,18
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO,No,No,Ninguno,Secundaria (Bachillerato) incompleta,Estrato 1,M,18
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria completa,No sabe,Estrato 3,F,20 a 24
+TARDE,B,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 3,F,17
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,No sabe,Estrato 2,F,17

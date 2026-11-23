@@ -1,0 +1,12 @@
+{
+ "auc": 0.7543610649736475,
+ "sens": 0.8442180946674656,
+ "prec": 0.5215041823969205,
+ "n_test": 20764,
+ "n_train": 86397,
+ "arquitectura": "128 → 64 neuronas, Dropout 0.3, L2 0.001",
+ "umbral_calendario": {
+  "A": 0.32,
+  "B": 0.14
+ }
+}

@@ -1,0 +1,301 @@
+cole_jornada,cole_calendario,cole_naturaleza,cole_area_ubicacion,cole_bilingue,cole_caracter,fami_tieneinternet,fami_tienecomputador,fami_educacionmadre,fami_educacionpadre,fami_estratovivienda,estu_genero,grupo_edad,prob_keras_calibrada
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,F,16,0.46268656849861145
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 1,F,16,0.5256587862968445
+MAÑANA,A,NO OFICIAL,URBANO,S,TÉCNICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,M,19,0.5045871734619141
+COMPLETA,B,NO OFICIAL,URBANO,S,ACADÉMICO,Si,Si,Postgrado,Postgrado,Estrato 6,M,18,0.0
+TARDE,A,NO OFICIAL,URBANO,No reportado,NO APLICA,No reportado,No reportado,No reportado,No reportado,Estrato 1,M,16,0.4037266969680786
+COMPLETA,B,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Postgrado,Postgrado,Estrato 3,F,16,0.0
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Primaria completa,Estrato 3,F,19,0.6985507011413574
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,17,0.4037266969680786
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,No reportado,Si,Ninguno,Educación profesional completa,Estrato 1,M,17,0.3243243396282196
+NOCHE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,M,18,0.7899543642997742
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Primaria incompleta,Primaria incompleta,Estrato 3,M,16,0.2641509473323822
+TARDE,A,NO OFICIAL,URBANO,N,TÉCNICO,No reportado,Si,No reportado,No reportado,No reportado,M,16,0.3243243396282196
+UNICA,A,OFICIAL,RURAL,N,ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Ninguno,Estrato 1,F,19,0.822429895401001
+NOCHE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Primaria completa,Primaria completa,Estrato 1,F,20 a 24,0.9324324131011963
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional incompleta,Estrato 4,F,17,0.02654867246747017
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO,No reportado,No,Primaria incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,F,16,0.6985507011413574
+COMPLETA,B,NO OFICIAL,URBANO,S,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 3,M,18,0.02654867246747017
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,M,16,0.4037266969680786
+NOCHE,A,OFICIAL,URBANO,N,ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,F,19,0.9324324131011963
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,F,18,0.5634218454360962
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,F,17,0.5634218454360962
+UNICA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Educación profesional completa,Técnica o tecnológica incompleta,Estrato 3,M,18,0.13127413392066956
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 3,F,17,0.30123457312583923
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,M,17,0.4037266969680786
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,17,0.5045871734619141
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,17,0.3243243396282196
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,F,18,0.6107470393180847
+NOCHE,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,F,19,0.6985507011413574
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 6,F,18,0.03168287415863383
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,16,0.4037266969680786
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No reportado,Educación profesional completa,Educación profesional completa,Estrato 3,M,17,0.11210762709379196
+UNICA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Técnica o tecnológica incompleta,Postgrado,Estrato 3,F,17,0.03781512752175331
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,18,0.7899543642997742
+NOCHE,A,NO OFICIAL,URBANO,N,NO APLICA,No,No,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 1,F,16,0.8452380895614624
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional incompleta,Educación profesional completa,Estrato 4,F,17,0.42241379618644714
+COMPLETA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 4,F,16,0.0827067643404007
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Postgrado,Estrato 5,M,17,0.0
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Primaria incompleta,Estrato 3,F,18,0.5045871734619141
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 6,F,18,0.03168287415863383
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Primaria incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,F,19,0.6985507011413574
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 3,M,16,0.2641509473323822
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Primaria completa,Primaria completa,Estrato 1,F,18,0.6703296899795532
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,18,0.6985507011413574
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Postgrado,Estrato 5,F,17,0.0
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Técnica o tecnológica completa,No sabe,Estrato 3,F,17,0.3719008266925812
+NOCHE,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 5,M,19,0.6985507011413574
+UNICA,A,OFICIAL,RURAL,No reportado,ACADÉMICO,Si,No,Primaria completa,Secundaria (Bachillerato) incompleta,Estrato 1,M,17,0.6107470393180847
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,M,17,0.3243243396282196
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,18,0.6578947305679321
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria completa,Secundaria (Bachillerato) completa,Estrato 1,F,17,0.5634218454360962
+UNICA,A,OFICIAL,RURAL,N,ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Primaria completa,Estrato 1,F,17,0.6107470393180847
+MAÑANA,A,NO OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 1,M,16,0.30123457312583923
+SABATINA,A,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,Si,No reportado,No reportado,No reportado,F,30 o más,0.931034505367279
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Primaria completa,Sin Estrato,M,17,0.6107470393180847
+UNICA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,No sabe,No sabe,No reportado,F,17,0.17521367967128754
+MAÑANA,B,NO OFICIAL,URBANO,N,No reportado,Si,No reportado,Educación profesional incompleta,Educación profesional completa,Estrato 4,M,17,0.13127413392066956
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,F,18,0.7899543642997742
+UNICA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No,No,Educación profesional completa,Educación profesional incompleta,Estrato 1,M,17,0.11210762709379196
+UNICA,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,M,16,0.5045871734619141
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 4,M,17,0.05536332353949547
+COMPLETA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 5,M,17,0.02654867246747017
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Educación profesional completa,Estrato 3,F,16,0.30123457312583923
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No reportado,Educación profesional incompleta,Secundaria (Bachillerato) completa,Estrato 3,M,17,0.03781512752175331
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Primaria completa,No sabe,Estrato 3,M,16,0.3243243396282196
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Educación profesional completa,Estrato 4,F,17,0.5634218454360962
+UNICA,A,OFICIAL,RURAL,N,ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 1,M,17,0.5634218454360962
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No,Primaria incompleta,Primaria incompleta,Estrato 3,M,18,0.6107470393180847
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 3,F,16,0.17521367967128754
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 1,F,16,0.2641509473323822
+COMPLETA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No,No sabe,Secundaria (Bachillerato) incompleta,Estrato 3,F,16,0.3243243396282196
+SABATINA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No reportado,Primaria incompleta,Primaria incompleta,Estrato 3,F,30 o más,0.9076923131942749
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.5414634346961975
+COMPLETA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,M,19,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO,No,Si,Secundaria (Bachillerato) incompleta,No sabe,Estrato 2,M,16,0.5256587862968445
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,16,0.3719008266925812
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 6,F,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,16,0.4037266969680786
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,F,16,0.4037266969680786
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,18,0.6703296899795532
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,No Aplica,Estrato 1,F,18,0.6107470393180847
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,No sabe,No sabe,Estrato 3,M,17,0.3414634168148041
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,17,0.3414634168148041
+MAÑANA,B,NO OFICIAL,URBANO,N,No reportado,Si,Si,Primaria incompleta,Primaria incompleta,Estrato 4,M,20 a 24,0.6578947305679321
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,No sabe,Estrato 3,F,16,0.5045871734619141
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Educación profesional incompleta,Educación profesional completa,Estrato 4,M,17,0.0827067643404007
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 2,F,17,0.46268656849861145
+COMPLETA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,No,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 2,M,18,0.13127413392066956
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.4037266969680786
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,18,0.5045871734619141
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica incompleta,Estrato 4,F,17,0.11210762709379196
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,M,17,0.3414634168148041
+MAÑANA,A,OFICIAL,URBANO,No reportado,No reportado,No,No,Primaria completa,Primaria completa,Estrato 2,F,19,0.822429895401001
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Educación profesional completa,Estrato 3,F,17,0.4037266969680786
+COMPLETA,B,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 5,F,18,0.05536332353949547
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Técnica o tecnológica incompleta,Estrato 2,F,16,0.3076923191547394
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,M,18,0.5045871734619141
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,M,18,0.5045871734619141
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 5,F,16,0.19028340280056
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,17,0.5045871734619141
+COMPLETA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,No reportado,Postgrado,Educación profesional incompleta,Estrato 6,F,18,0.02654867246747017
+NOCHE,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,No sabe,Secundaria (Bachillerato) completa,Estrato 3,F,18,0.6985507011413574
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional incompleta,Educación profesional completa,Estrato 5,M,18,0.4037266969680786
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,No sabe,No sabe,Estrato 2,M,16,0.30123457312583923
+MAÑANA,A,OFICIAL,URBANO,No reportado,No reportado,No reportado,Si,No reportado,No reportado,No reportado,M,17,0.5045871734619141
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica completa,Estrato 5,F,17,0.02654867246747017
+MAÑANA,A,OFICIAL,URBANO,No reportado,No reportado,Si,Si,No sabe,No sabe,Estrato 1,F,16,0.4037266969680786
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,17,0.5256587862968445
+COMPLETA,A,NO OFICIAL,URBANO,No reportado,TÉCNICO,Si,Si,Educación profesional incompleta,Secundaria (Bachillerato) completa,Estrato 3,M,17,0.2641509473323822
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Postgrado,Primaria incompleta,Estrato 3,F,16,0.190476194024086
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 1,F,17,0.6107470393180847
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,No,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,16,0.3719008266925812
+COMPLETA,B,NO OFICIAL,URBANO,S,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 5,M,16,0.0
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO,No reportado,Si,No reportado,No reportado,No reportado,F,18,0.4037266969680786
+NOCHE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Primaria incompleta,Primaria incompleta,Estrato 2,F,19,0.9324324131011963
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Primaria incompleta,Estrato 1,M,17,0.5045871734619141
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 6,M,16,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 3,F,17,0.2641509473323822
+TARDE,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,Si,No sabe,No sabe,No reportado,M,16,0.5045871734619141
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Primaria completa,Primaria completa,Estrato 1,F,17,0.5045871734619141
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 5,M,16,0.3243243396282196
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Primaria completa,Primaria incompleta,Estrato 1,F,17,0.6703296899795532
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 2,M,16,0.17521367967128754
+MAÑANA,A,NO OFICIAL,RURAL,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,18,0.6666666865348816
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional incompleta,Secundaria (Bachillerato) completa,Estrato 3,M,17,0.4037266969680786
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Técnica o tecnológica incompleta,Secundaria (Bachillerato) completa,Sin Estrato,F,17,0.5045871734619141
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 2,F,17,0.5045871734619141
+SABATINA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,No,Primaria completa,Primaria incompleta,Estrato 2,M,17,0.6985507011413574
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 2,M,16,0.19028340280056
+COMPLETA,A,NO OFICIAL,URBANO,No reportado,TÉCNICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,F,16,0.5414634346961975
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 3,F,16,0.4037266969680786
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,F,17,0.5414634346961975
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica completa,Estrato 2,F,17,0.17521367967128754
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional completa,Educación profesional completa,Estrato 2,M,17,0.4037266969680786
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,No sabe,Estrato 2,M,17,0.17521367967128754
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,18,0.6703296899795532
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,M,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,No reportado,No reportado,No reportado,No reportado,No reportado,No reportado,No reportado,F,17,0.6985507011413574
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,M,17,0.46268656849861145
+MAÑANA,A,NO OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,F,16,0.4037266969680786
+COMPLETA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 3,F,17,0.19028340280056
+NOCHE,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,M,19,0.931034505367279
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.30123457312583923
+NOCHE,A,OFICIAL,RURAL,N,ACADÉMICO,Si,No reportado,Ninguno,Primaria completa,Estrato 2,M,17,0.8149445196955565
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Educación profesional completa,Estrato 4,F,16,0.02654867246747017
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Postgrado,Educación profesional completa,Estrato 3,M,17,0.11210762709379196
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,No,No,Primaria incompleta,Primaria completa,Sin Estrato,F,17,0.822429895401001
+COMPLETA,A,NO OFICIAL,URBANO,No reportado,TÉCNICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 1,M,17,0.3243243396282196
+NOCHE,A,NO OFICIAL,URBANO,No reportado,No reportado,Si,Si,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 2,M,20 a 24,0.8452380895614624
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,No reportado,Secundaria (Bachillerato) completa,No sabe,Estrato 2,F,16,0.30123457312583923
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,F,18,0.6985507011413574
+TARDE,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,16,0.4736842215061188
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,No sabe,Educación profesional completa,Estrato 5,M,18,0.19028340280056
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No reportado,Educación profesional completa,Educación profesional completa,Estrato 3,M,19,0.30123457312583923
+MAÑANA,A,OFICIAL,URBANO,No reportado,No reportado,Si,Si,Ninguno,Secundaria (Bachillerato) incompleta,Estrato 1,M,16,0.4037266969680786
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,Si,No reportado,No reportado,No reportado,F,18,0.14388489723205566
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,No sabe,Educación profesional completa,Estrato 4,M,16,0.17521367967128754
+MAÑANA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Secundaria (Bachillerato) completa,Estrato 4,M,19,0.2641509473323822
+COMPLETA,B,NO OFICIAL,RURAL,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 3,F,17,0.03781512752175331
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional completa,Primaria completa,Estrato 2,F,17,0.5256587862968445
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Sin Estrato,F,16,0.6107470393180847
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,16,0.5045871734619141
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 6,F,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,M,17,0.4037266969680786
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,19,0.5045871734619141
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,17,0.4736842215061188
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,No reportado,No reportado,Secundaria (Bachillerato) completa,Estrato 2,M,19,0.5045871734619141
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,Si,No reportado,No reportado,No reportado,F,17,0.5256587862968445
+MAÑANA,A,OFICIAL,URBANO,No reportado,No reportado,Si,Si,Técnica o tecnológica completa,Secundaria (Bachillerato) completa,Estrato 5,M,17,0.2641509473323822
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 5,F,18,0.6703296899795532
+UNICA,A,OFICIAL,RURAL,N,ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Primaria completa,Estrato 1,F,17,0.6703296899795532
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No,Educación profesional completa,No sabe,Estrato 4,F,18,0.4037266969680786
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,F,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Sin Estrato,F,16,0.6703296899795532
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,F,17,0.5414634346961975
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 4,F,18,0.6107470393180847
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.30123457312583923
+COMPLETA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 6,M,18,0.03781512752175331
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica incompleta,Estrato 4,F,16,0.13127413392066956
+COMPLETA,B,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Postgrado,Postgrado,Estrato 5,F,18,0.016086192478713877
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica incompleta,Educación profesional incompleta,Estrato 3,F,17,0.03781512752175331
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Educación profesional completa,Estrato 1,F,16,0.40140846371650696
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 6,F,18,0.03168287415863383
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Ninguno,Estrato 2,F,17,0.6107470393180847
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No,Educación profesional completa,Educación profesional completa,Estrato 2,M,17,0.05536332353949547
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,F,17,0.5256587862968445
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Técnica o tecnológica completa,Estrato 2,F,17,0.3719008266925812
+UNICA,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,18,0.6578947305679321
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,F,16,0.6107470393180847
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Ninguno,Primaria incompleta,Estrato 1,F,18,0.822429895401001
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,No reportado,Secundaria (Bachillerato) incompleta,No reportado,M,19,0.6703296899795532
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Primaria completa,Estrato 2,M,18,0.5256587862968445
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,M,16,0.2641509473323822
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No reportado,Educación profesional completa,Educación profesional completa,Estrato 2,F,16,0.2641509473323822
+COMPLETA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Educación profesional completa,Estrato 3,F,17,0.2641509473323822
+COMPLETA,B,NO OFICIAL,URBANO,S,ACADÉMICO,Si,No reportado,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 6,M,19,0.05536332353949547
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Primaria completa,Estrato 5,M,19,0.5634218454360962
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 4,M,17,0.14388489723205566
+UNICA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 2,M,17,0.2641509473323822
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,F,17,0.0827067643404007
+TARDE,B,NO OFICIAL,URBANO,No reportado,No reportado,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,M,17,0.30123457312583923
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Educación profesional completa,Estrato 1,M,20 a 24,0.6703296899795532
+NOCHE,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,No,No Aplica,Secundaria (Bachillerato) incompleta,Estrato 4,M,20 a 24,0.931034505367279
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional incompleta,Secundaria (Bachillerato) incompleta,Estrato 4,M,17,0.11210762709379196
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Primaria incompleta,Estrato 1,F,17,0.6107470393180847
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica incompleta,Estrato 2,F,17,0.11210762709379196
+MAÑANA,A,NO OFICIAL,URBANO,No reportado,NO APLICA,Si,No,No sabe,Secundaria (Bachillerato) completa,Estrato 2,M,18,0.6703296899795532
+NOCHE,B,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,M,18,0.6703296899795532
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 1,M,17,0.4736842215061188
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,No,Técnica o tecnológica completa,Educación profesional completa,Estrato 2,M,18,0.3719008266925812
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,No sabe,Secundaria (Bachillerato) incompleta,Estrato 3,F,17,0.4037266969680786
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No,Técnica o tecnológica completa,Secundaria (Bachillerato) completa,Estrato 2,M,18,0.4037266969680786
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria completa,Primaria completa,Estrato 1,F,16,0.6107470393180847
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 1,M,16,0.2641509473323822
+COMPLETA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,No sabe,Estrato 2,M,17,0.19028340280056
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,F,16,0.6080188899530533
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,17,0.4037266969680786
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Primaria incompleta,Primaria incompleta,Estrato 1,F,18,0.7899543642997742
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Primaria completa,Estrato 3,F,18,0.6578947305679321
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,M,16,0.3719008266925812
+MAÑANA,A,NO OFICIAL,URBANO,S,TÉCNICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,M,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 3,F,17,0.6107470393180847
+COMPLETA,A,NO OFICIAL,URBANO,S,TÉCNICO,Si,No,No sabe,Primaria incompleta,Estrato 1,F,17,0.6107470393180847
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,18,0.6107470393180847
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No,No,Secundaria (Bachillerato) completa,Ninguno,Estrato 3,F,19,0.7899543642997742
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 2,F,17,0.2641509473323822
+COMPLETA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,No reportado,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,M,18,0.17521367967128754
+TARDE,A,NO OFICIAL,URBANO,N,TÉCNICO,No reportado,No reportado,No reportado,No reportado,No reportado,M,17,0.3243243396282196
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,16,0.2641509473323822
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,F,17,0.5045871734619141
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Técnica o tecnológica completa,Estrato 2,F,18,0.3076923191547394
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,M,17,0.30123457312583923
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Postgrado,Educación profesional completa,No reportado,M,17,0.02654867246747017
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,M,17,0.05536332353949547
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,17,0.30123457312583923
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Postgrado,Educación profesional completa,Estrato 5,F,17,0.03781512752175331
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,F,16,0.5256587862968445
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Educación profesional incompleta,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,F,17,0.5256587862968445
+UNICA,A,OFICIAL,URBANO,No reportado,No reportado,Si,Si,Primaria completa,Primaria completa,Estrato 1,M,18,0.6578947305679321
+TARDE,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No,No,Educación profesional incompleta,Educación profesional completa,Estrato 1,F,16,0.3243243396282196
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 2,F,17,0.5414634346961975
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Primaria completa,Primaria completa,Estrato 1,M,19,0.5414634346961975
+COMPLETA,B,NO OFICIAL,RURAL,N,TÉCNICO,Si,No,Educación profesional completa,No sabe,Estrato 3,F,15 o menos,0.05536332353949547
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria completa,Primaria incompleta,Estrato 2,M,19,0.6107470393180847
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Primaria completa,Secundaria (Bachillerato) completa,Estrato 3,M,18,0.6107470393180847
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica completa,Estrato 2,F,17,0.2068965584039688
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,F,16,0.30123457312583923
+COMPLETA,B,NO OFICIAL,URBANO,S,ACADÉMICO,Si,Si,Postgrado,Postgrado,Estrato 5,M,19,0.0
+MAÑANA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica completa,Técnica o tecnológica incompleta,Estrato 3,M,19,0.4037266969680786
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Sin Estrato,F,16,0.6107470393180847
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Educación profesional completa,Estrato 4,F,17,0.30123457312583923
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,No sabe,No reportado,M,16,0.42241379618644714
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,No reportado,Educación profesional completa,No reportado,F,17,0.03781512752175331
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,M,17,0.2641509473323822
+COMPLETA,B,NO OFICIAL,URBANO,S,ACADÉMICO,Si,Si,Postgrado,Postgrado,Estrato 4,F,17,0.0
+SABATINA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,No sabe,Técnica o tecnológica incompleta,Estrato 4,M,19,0.6703296899795532
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,M,16,0.30123457312583923
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Postgrado,Secundaria (Bachillerato) completa,Estrato 6,F,18,0.02654867246747017
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 1,F,17,0.3719008266925812
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Primaria incompleta,Estrato 3,M,17,0.43589743971824646
+SABATINA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No reportado,Primaria incompleta,Ninguno,Estrato 1,F,30 o más,0.9324324131011963
+UNICA,A,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,Si,Primaria completa,Ninguno,Sin Estrato,M,18,0.7899543642997742
+COMPLETA,B,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,18,0.13127413392066956
+MAÑANA,B,NO OFICIAL,URBANO,N,TÉCNICO,No reportado,No reportado,No reportado,No reportado,No reportado,M,17,0.17521367967128754
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 3,F,18,0.6703296899795532
+COMPLETA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Técnica o tecnológica completa,No sabe,Estrato 1,F,17,0.11363636702299118
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Primaria incompleta,Sin Estrato,M,17,0.6703296899795532
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica incompleta,Secundaria (Bachillerato) completa,Estrato 1,F,16,0.2641509473323822
+MAÑANA,A,NO OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 2,M,18,0.5634218454360962
+NOCHE,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,M,20 a 24,0.7899543642997742
+UNICA,B,NO OFICIAL,URBANO,No reportado,No reportado,No reportado,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,M,18,0.43589743971824646
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,17,0.3243243396282196
+COMPLETA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,18,0.17521367967128754
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria incompleta,Primaria incompleta,Estrato 3,M,18,0.5414634346961975
+MAÑANA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Técnica o tecnológica completa,Estrato 2,F,17,0.2641509473323822
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,M,17,0.5045871734619141
+NOCHE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,No sabe,No sabe,Estrato 3,F,18,0.8466257452964783
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Técnica o tecnológica completa,Educación profesional completa,Estrato 1,F,17,0.2641509473323822
+MAÑANA,B,NO OFICIAL,URBANO,N,ACADÉMICO,No reportado,No,No reportado,No reportado,No reportado,M,18,0.5256587862968445
+UNICA,A,OFICIAL,URBANO,N,ACADÉMICO,Si,No,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,F,17,0.6107470393180847
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 3,F,18,0.5634218454360962
+COMPLETA,A,NO OFICIAL,URBANO,N,ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,F,17,0.2641509473323822
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 1,F,17,0.40140846371650696
+MAÑANA,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,No,Educación profesional completa,Técnica o tecnológica incompleta,Estrato 4,M,17,0.17521367967128754
+UNICA,A,OFICIAL,RURAL,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,F,17,0.3243243396282196
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,Si,Ninguno,Técnica o tecnológica incompleta,Estrato 1,M,16,0.30123457312583923
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO,No,No,Educación profesional completa,Primaria incompleta,Estrato 4,F,19,0.7899543642997742
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Técnica o tecnológica completa,No sabe,Estrato 4,F,17,0.4736842215061188
+TARDE,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,M,19,0.6578947305679321
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Educación profesional incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,M,16,0.19028340280056
+NOCHE,B,NO OFICIAL,URBANO,No reportado,ACADÉMICO,Si,No,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 4,M,18,0.6985507011413574
+MAÑANA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,No,Ninguno,Secundaria (Bachillerato) completa,Estrato 1,F,17,0.6107470393180847
+UNICA,A,OFICIAL,URBANO,No reportado,TÉCNICO/ACADÉMICO,Si,No,Primaria completa,Primaria completa,Estrato 2,F,19,0.8452380895614624
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No,Primaria completa,No sabe,Estrato 2,M,18,0.5414634346961975
+UNICA,A,OFICIAL,RURAL,N,ACADÉMICO,No reportado,No reportado,No reportado,No reportado,No reportado,F,19,0.822429895401001
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,F,17,0.4037266969680786
+UNICA,A,NO OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,No reportado,Si,No reportado,Secundaria (Bachillerato) incompleta,Estrato 2,F,17,0.3414634168148041
+COMPLETA,B,NO OFICIAL,URBANO,S,TÉCNICO,Si,Si,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 4,M,17,0.03781512752175331
+UNICA,A,OFICIAL,URBANO,N,TÉCNICO/ACADÉMICO,Si,No reportado,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 3,M,18,0.5045871734619141
