@@ -38,15 +38,55 @@ VARS = motor.variables
 
 
 def plantilla():
+    """Grupo de ejemplo: 40 estudiantes anonimizados de 2025."""
     ej = pd.read_csv(Path(__file__).resolve().parent.parent / "modelos" / "ejemplo_grupo.csv", dtype=str)
     ej.insert(0, "id_estudiante", [f"E{i+1:03d}" for i in range(len(ej))])
     return ej
 
 
+@st.cache_data
+def plantilla_vacia(filas=60):
+    """Excel vacío con las columnas y una lista desplegable con las opciones válidas de cada pregunta."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Font, PatternFill, Alignment
+    from openpyxl.worksheet.datavalidation import DataValidation
+    from openpyxl.utils import get_column_letter
+    wb = Workbook(); ws = wb.active; ws.title = "Estudiantes"
+    op = wb.create_sheet("Opciones"); op.sheet_state = "hidden"
+    cols = ["id_estudiante"] + motor.variables
+    for j, c in enumerate(cols, 1):
+        celda = ws.cell(1, j, c)
+        celda.font = Font(bold=True, color="FFFFFF"); celda.fill = PatternFill("solid", fgColor="C8102E")
+        celda.alignment = Alignment(horizontal="center")
+        ws.column_dimensions[get_column_letter(j)].width = max(16, len(c) + 4)
+        if c == "id_estudiante":
+            continue
+        letra = get_column_letter(j)
+        for i, cat in enumerate(motor.categorias[c], 1):
+            op.cell(i, j, cat)
+        dv = DataValidation(type="list", formula1=f"Opciones!${letra}$1:${letra}${len(motor.categorias[c])}",
+                            showErrorMessage=True, errorTitle="Valor no válido", error="Elija una opción de la lista.")
+        ws.add_data_validation(dv); dv.add(f"{letra}2:{letra}{filas + 1}")
+    ws.freeze_panes = "B2"
+    ins = wb.create_sheet("Instrucciones")
+    for i, t in enumerate(["Cómo llenar la plantilla",
+                           "1. Una fila por estudiante, desde la fila 2 de la hoja «Estudiantes».",
+                           "2. En id_estudiante ponga un código interno (por ejemplo 11A-01). No escriba nombres ni documentos.",
+                           "3. En las demás columnas elija la respuesta de la lista desplegable. Si no la sabe, elija «No reportado».",
+                           "4. Guarde el archivo y súbalo en la pestaña «Mi grupo» de la aplicación."], 1):
+        ins.cell(i, 1, t).font = Font(bold=(i == 1), size=13 if i == 1 else 11)
+    ins.column_dimensions["A"].width = 110
+    buf = io.BytesIO(); wb.save(buf)
+    return buf.getvalue()
+
+
 def leer_archivo(f):
     if f.name.lower().endswith((".xlsx", ".xls")):
-        return pd.read_excel(f, dtype=str)
-    return pd.read_csv(f, dtype=str, sep=None, engine="python", encoding_errors="replace")
+        df = pd.read_excel(f, dtype=str)
+    else:
+        df = pd.read_csv(f, dtype=str, sep=None, engine="python", encoding="utf-8-sig", encoding_errors="replace")
+    df.columns = df.columns.astype(str).str.replace("﻿", "").str.strip()
+    return df.dropna(how="all")  # la plantilla Excel trae filas vacías con listas desplegables
 
 
 def razones(fila_aportes, k=3):
@@ -82,10 +122,12 @@ with tab_grupo:
         st.write("Un archivo CSV o Excel con una fila por estudiante y las 13 respuestas del formulario. "
                  "Puede tener una columna `id_estudiante` para reconocer a cada uno; no pongas nombres ni documentos.")
     with c2:
-        pl = plantilla()
-        st.download_button("⬇️ Descargar plantilla (CSV)", pl.to_csv(index=False).encode("utf-8-sig"),
-                           "plantilla_grupo_saber11.csv", "text/csv", use_container_width=True)
-        st.caption("La plantilla trae 40 estudiantes de ejemplo (anonimizados, de 2025) para probar la app.")
+        st.download_button("⬇️ Descargar plantilla vacía (Excel)", plantilla_vacia(), "plantilla_grupo_saber11.xlsx",
+                           "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", use_container_width=True)
+        st.download_button("⬇️ Descargar grupo de ejemplo (CSV)", plantilla().to_csv(index=False).encode("utf-8-sig"),
+                           "ejemplo_grupo_saber11.csv", "text/csv", use_container_width=True)
+        st.caption("La plantilla viene vacía y con listas de opciones para llenar con sus estudiantes. "
+                   "El ejemplo trae 40 estudiantes anonimizados de 2025 para probar la app.")
 
     archivo = st.file_uploader("Archivo del grupo", type=["csv", "xlsx", "xls"])
     usar_ejemplo = st.checkbox("Usar el grupo de ejemplo", value=archivo is None)

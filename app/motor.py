@@ -57,7 +57,8 @@ class Motor:
 
     def limpiar(self, df):
         """Deja el archivo con las 13 variables. Devuelve los datos y un reporte de lo que se corrigió."""
-        df = df.copy(); df.columns = [str(c).strip() for c in df.columns]
+        # Excel guarda los CSV con BOM: sin quitarlo, la primera columna no se reconoce (p. ej. id_estudiante)
+        df = df.copy(); df.columns = [str(c).replace("﻿", "").strip() for c in df.columns]
         if "grupo_edad" not in df.columns and "edad" in df.columns:
             df["grupo_edad"] = df["edad"].map(self.grupo_edad)
         faltan = [v for v in self.variables if v not in df.columns]
