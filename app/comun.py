@@ -81,7 +81,7 @@ def plantilla_vacia(filas=500):
                             error="Elija una opción de la lista desplegable (vea la hoja Opciones).")
         ws.add_data_validation(dv); dv.add(f"{letra}2:{letra}{filas + 1}")
     ws.freeze_panes = "B2"; op.freeze_panes = "A2"
-    textos = ["PLANTILLA DE CARGA — ALERTA TEMPRANA SABER 11", "",
+    textos = ["PLANTILLA DE CARGA · ALERTA TEMPRANA SABER 11", "",
               "1. En la hoja Estudiantes escriba un código anónimo por estudiante en id_estudiante.",
               "2. Complete una fila por estudiante. Use la lista desplegable de cada celda para elegir la respuesta.",
               "3. Las opciones de las listas son las mismas con que se entrenó el modelo; no cambie los encabezados.",

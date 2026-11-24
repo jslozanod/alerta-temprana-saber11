@@ -1,4 +1,4 @@
-"""Sistema de Alerta Temprana Saber 11 — aplicación de despliegue.
+"""Sistema de Alerta Temprana Saber 11: aplicación de despliegue.
 
 Pensada para coordinadores y docentes de colegios de Cali: suben la lista de su grupo y reciben a los estudiantes
 ordenados por riesgo de obtener menos de 250 puntos, con los factores que más pesan en cada caso.
@@ -17,6 +17,6 @@ paginas = [
 pagina = st.navigation(paginas, position="top")
 pagina.run()
 
-st.caption("Proyecto de Inteligencia Artificial · Universidad Autónoma de Occidente · 2026-2 — "
+st.caption("Proyecto de Inteligencia Artificial · Universidad Autónoma de Occidente · 2026-2. "
            "Juan Sebastián Lozano Díaz, Julián David Cuéllar Cubillos y Alejandro Cárdenas Anturi. "
            "Los archivos se procesan en memoria y no se guardan (Ley 1581 de 2012).")

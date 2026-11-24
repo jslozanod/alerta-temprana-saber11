@@ -1,4 +1,4 @@
-# Sistema de Alerta Temprana — Saber 11 (Cali)
+# Sistema de Alerta Temprana Saber 11 (Cali)
 
 Proyecto final de Inteligencia Artificial · Universidad Autónoma de Occidente · 2026-2
 **Equipo:** Juan Sebastián Lozano Díaz, Julián David Cuéllar Cubillos y Alejandro Cárdenas Anturi
