@@ -10,7 +10,7 @@ Estimamos el riesgo de que un estudiante de grado 11 de Cali obtenga **menos de 
 
 | Carpeta | Contenido |
 |---|---|
-| `app/` | La aplicación web (Streamlit). `motor.py` hace la predicción solo con NumPy; `app.py` es la interfaz. |
+| `app/` | La aplicación web (Streamlit). `motor.py` hace la predicción solo con NumPy; `comun.py` tiene la plantilla, la lectura de archivos y los gráficos; `app.py` arma la navegación y `app_pages/` tiene las cuatro páginas (Inicio, Mi grupo, Un estudiante y Cómo funciona). |
 | `modelos/` | El modelo exportado: pesos de la red (`pesos_mlp.npz`), categorías, calibración y umbrales (`modelo_meta.json`), y archivos de ejemplo. |
 | `notebooks/` | `03_Modelo_Final_y_Despliegue_Saber11.ipynb`: búsqueda de hiperparámetros, calibración, evaluación en 2025, equidad, monitoreo y exportación. |
 | `tests/` | Pruebas automáticas. La principal verifica que la app da la misma probabilidad que el modelo de Keras. |
