@@ -3,28 +3,6 @@ import streamlit as st
 from comun import RES, pct, miles, coma
 
 
-@st.dialog("Guía rápida", width="large")
-def guia():
-    pasos = [
-        (":material/download:", "Descargue la plantilla",
-         "En **Mi grupo**, botón *Plantilla vacía (Excel)*. Cada columna tiene una lista con las respuestas válidas."),
-        (":material/edit_note:", "Llénela con su grupo",
-         "Una fila por estudiante y un código anónimo (por ejemplo 11A-01). Si no sabe una respuesta, elija «No reportado»."),
-        (":material/upload_file:", "Súbala a la aplicación",
-         "En **Mi grupo**, elija *Mi archivo* y arrastre el Excel o el CSV. ¿Solo quiere probar? Use *Grupo de ejemplo*."),
-        (":material/tune:", "Indique cuántos cupos tiene",
-         "Diga cuántos estudiantes puede acompañar el colegio. La lista marca primero a los de mayor riesgo."),
-        (":material/visibility:", "Revise cada caso",
-         "Con el botón *Ver* de la tabla se abre el detalle: qué factores pesan y qué acciones se sugieren."),
-    ]
-    for i, (icono, titulo, texto) in enumerate(pasos, 1):
-        with st.container(border=True):
-            st.markdown(f"**{icono} {i}. {titulo}**")
-            st.caption(texto)
-    if st.button("Ir a Mi grupo", type="primary", icon=":material/arrow_forward:", width="stretch"):
-        st.switch_page("app_pages/grupo.py")
-
-
 st.caption(":red[**INTELIGENCIA ARTIFICIAL · UNIVERSIDAD AUTÓNOMA DE OCCIDENTE**]")
 st.title("Sistema de Alerta Temprana Saber 11")
 st.markdown(
@@ -38,8 +16,6 @@ with st.container(horizontal=True):
         st.switch_page("app_pages/grupo.py")
     if st.button("Evaluar un estudiante", icon=":material/person_search:"):
         st.switch_page("app_pages/estudiante.py")
-    if st.button("Guía rápida (1 minuto)", type="tertiary", icon=":material/help:"):
-        guia()
 
 st.subheader("Cómo se usa")
 c1, c2, c3 = st.columns(3, border=True)

@@ -63,7 +63,7 @@ with t3:
         tooltip=["Pregunta", alt.Tooltip("Promedio:Q", format=".1f")]).properties(height=alt.Step(30)),
         alt="Promedio de las preguntas de utilidad")
     st.markdown("**Lo que cambiamos por sus comentarios.** En las sesiones observadas todas las tareas se lograron, pero con ayuda, y pidieron "
-                "acompañamiento al empezar. Por eso agregamos la **guía rápida**, las ayudas en pantalla, la "
+                "acompañamiento al empezar. Por eso agregamos las **ayudas en pantalla**, la "
                 "**plantilla en Excel con listas desplegables** y el **detalle por estudiante con acciones sugeridas**.")
     st.caption("Son 3 participantes, todos de colegios privados: los resultados son indicativos, no concluyentes.")
 with t4:

@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-from comun import (RAIZ, NOMBRES, INTERVENIBLES, VARS, motor, ejemplo, plantilla_vacia, leer_archivo, analizar, razones,
+from comun import (NOMBRES, INTERVENIBLES, VARS, motor, ejemplo, plantilla_vacia, leer_archivo, analizar, razones,
                    acciones, grafico_aportes, grafico_distribucion, pct, coma)
 
 XLSX = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
@@ -23,7 +23,7 @@ with st.container(border=True):
             st.caption("Las 13 preguntas son las del formulario socioeconómico del ICFES. El colegio puede recogerlas "
                        "con su propio formulario al inicio del año.")
 
-    fuente = st.segmented_control("Fuente de los datos", ["Grupo de ejemplo", "Mi archivo"], default="Grupo de ejemplo",
+    fuente = st.segmented_control("Fuente de los datos", ["Mi archivo", "Grupo de ejemplo"], default="Mi archivo",
                                   key="fuente", required=True)
     if fuente == "Mi archivo":
         archivo = st.file_uploader("Archivo del grupo (Excel o CSV)", type=["xlsx", "xls", "csv"])
@@ -34,10 +34,6 @@ with st.container(border=True):
     with st.container(horizontal=True):
         st.download_button("Plantilla vacía (Excel)", plantilla_vacia(), "plantilla_grupo_saber11.xlsx", XLSX,
                            icon=":material/table_view:", type="primary" if fuente == "Mi archivo" else "secondary")
-        st.download_button("Ejemplo lleno: grupo 11A (Excel)", (RAIZ / "modelos" / "ejemplo_grupo_11A.xlsx").read_bytes(),
-                           "ejemplo_grupo_11A.xlsx", XLSX, icon=":material/description:",
-                           help="La plantilla ya llena con un grupo de 32 estudiantes de un colegio oficial. Sirve para ver cómo "
-                                "se llena y para probar «Mi archivo».")
         st.download_button("Grupo de ejemplo (CSV)", ejemplo().to_csv(index=False).encode("utf-8-sig"),
                            "ejemplo_grupo_saber11.csv", "text/csv", icon=":material/download:")
 
