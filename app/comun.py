@@ -86,7 +86,7 @@ def plantilla_vacia(filas=500):
               "2. Complete una fila por estudiante. Use la lista desplegable de cada celda para elegir la respuesta.",
               "3. Las opciones de las listas son las mismas con que se entrenó el modelo; no cambie los encabezados.",
               "4. Si no conoce una respuesta, elija «No reportado» cuando esté disponible. No invente datos.",
-              "5. Guarde el archivo en formato .xlsx y súbalo en «Mi grupo» de la aplicación.",
+              "5. Guarde el archivo en formato .xlsx y súbalo en «Mi grupo» → «Subir mi grupo (Excel o CSV)».",
               "6. No incluya nombres, documentos ni información que identifique directamente a los estudiantes.",
               f"7. Hay espacio para {filas} estudiantes (filas 2 a {filas + 1}). La hoja Opciones muestra las respuestas válidas.",
               "8. El resultado apoya la decisión del docente; no reemplaza su criterio ni es una evaluación académica.",

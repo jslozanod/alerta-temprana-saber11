@@ -6,6 +6,7 @@ from comun import (NOMBRES, INTERVENIBLES, VARS, motor, ejemplo, plantilla_vacia
                    acciones, grafico_aportes, grafico_distribucion, pct, coma)
 
 XLSX = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+SUBIR, PROBAR = "Subir mi grupo (Excel o CSV)", "Probar con un ejemplo"
 
 st.caption(":red[**MI GRUPO**]")
 st.header("¿A quién acompañar primero?")
@@ -19,13 +20,13 @@ with st.container(border=True):
             st.markdown("1. Descargue la **plantilla vacía (Excel)**.\n"
                         "2. Escriba un código por estudiante en `id_estudiante` (por ejemplo 11A-01). **Sin nombres.**\n"
                         "3. En cada celda elija la respuesta de la **lista desplegable**. Si no la sabe: «No reportado».\n"
-                        "4. Guarde y súbalo aquí en *Mi archivo*.")
+                        "4. Guárdela y súbala aquí en *Subir mi grupo*.")
             st.caption("Las 13 preguntas son las del formulario socioeconómico del ICFES. El colegio puede recogerlas "
                        "con su propio formulario al inicio del año.")
 
-    fuente = st.segmented_control("Fuente de los datos", ["Mi archivo", "Grupo de ejemplo"], default="Mi archivo",
+    fuente = st.segmented_control("¿Con qué datos quiere trabajar?", [SUBIR, PROBAR], default=SUBIR,
                                   key="fuente", required=True)
-    if fuente == "Mi archivo":
+    if fuente == SUBIR:
         archivo = st.file_uploader("Archivo del grupo (Excel o CSV)", type=["xlsx", "xls", "csv"])
     else:
         archivo = None
@@ -33,12 +34,12 @@ with st.container(border=True):
 
     with st.container(horizontal=True):
         st.download_button("Plantilla vacía (Excel)", plantilla_vacia(), "plantilla_grupo_saber11.xlsx", XLSX,
-                           icon=":material/table_view:", type="primary" if fuente == "Mi archivo" else "secondary")
-        st.download_button("Grupo de ejemplo (CSV)", ejemplo().to_csv(index=False).encode("utf-8-sig"),
+                           icon=":material/table_view:", type="primary" if fuente == SUBIR else "secondary")
+        st.download_button("Ejemplo de 40 estudiantes (CSV)", ejemplo().to_csv(index=False).encode("utf-8-sig"),
                            "ejemplo_grupo_saber11.csv", "text/csv", icon=":material/download:")
 
 crudo = None
-if fuente == "Mi archivo":
+if fuente == SUBIR:
     if archivo is None:
         st.info("Suba el archivo de su grupo para ver los resultados. Si aún no lo tiene, descargue la plantilla vacía.",
                 icon=":material/upload_file:")
